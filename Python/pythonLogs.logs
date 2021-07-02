@@ -1,0 +1,7 @@
+INFO 2021-07-02 09:26:19,569 - This is my  debug logger
+INFO 2021-07-02 09:26:19,577 - This is my  info logger
+INFO 2021-07-02 09:26:19,577 - This is my  warning logger
+INFO 2021-07-02 09:26:19,577 - This is my error info logger
+INFO 2021-07-02 09:26:19,577 - This is my critical info logger
+ERROR 2021-07-02 09:42:05,726 - This is my error info logger
+CRITICAL 2021-07-02 09:42:05,726 - This is my critical info logger
